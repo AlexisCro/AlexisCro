@@ -1,11 +1,11 @@
 # Who am I ? 
 
 👋 Hi, I’m Alexis Crozier.
-I worked during 8 years in hospitals and for the last 3 years I was the referent technician IT. After this 3 years I've decided to change of life and start a class to become a developer. 
+I worked for 8 years in hospitals and for the last 3 years I was the referent technician IT. After this 3 years I've decided to change of life and start a class to become a developer. 
 
-So actually I'm an alternate junior developer at Per-Angusta as firm and ISITECH as school. 
+Now I'm a worky-student developer at Per-Angusta as firm and ISITECH as school. 
 
-I like web technologies and I use HTML/CSS/JS and Ruby on Rails. 
+I like web technologies and I use HTML/CSS, Ruby on Rails, Hotwire beginner. 
 
 # Per-Angusta
 
