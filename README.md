@@ -17,6 +17,8 @@ Per-Angusta uses different technologies, here an non-exhaustive list :
   - CSS / SCSS / BOOTSTRAP
   - JS / JQuery
   - Ruby on Rails
+  - Hotwire (Turbo & Stimulus)
+  - GIT & GITHUB
 
 
 
